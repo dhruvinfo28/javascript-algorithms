@@ -1,4 +1,4 @@
-/**
+/*
  * @typedef {Object} Callbacks
  *
  * @property {function(vertices: Object): boolean} [allowTraversal] -
